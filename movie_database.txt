@@ -49,5 +49,4 @@ X-Men: Days of Future Past,2014,Thriller,Bryan Singer,Jennifer Lawrence,4.4,An a
 Star Trek Into Darkness,2013,Sci-Fi,J.J. Abrams,Benedict Cumberbatch,4.3,A thrilling and action-packed Star Trek film with Benedict Cumberbatch's Khan as a formidable adversary. The film explores themes of sacrifice and loyalty.
 Jack the Giant Slayer,2013,Fantasy,Bryan Singer,Eddie Marsan,3.9,A visually impressive retelling of the classic Jack and the Beanstalk tale. Eddie Marsan's Crawe adds humor to the epic adventure.
 The Great Gatsby,2013,Romance,Baz Luhrmann,Leonardo DiCaprio,4.2,A visually stunning adaptation of F. Scott Fitzgerald's classic novel. Leonardo DiCaprio's portrayal of Jay Gatsby is both charismatic and tragic.
-q,q,qq,q,q,3.0,q
-aa,aa,aa,aa,aa,4.0,Good
+
