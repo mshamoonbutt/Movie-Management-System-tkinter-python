@@ -1,0 +1,53 @@
+Avatar,2009,Sci-Fi,James Cameron,CCH Pounder,4.8,James: A groundbreaking visual masterpiece that takes you on an extraordinary journey. The world of Pandora is mesmerizing and the storyline is both captivating and thought-provoking.,Harry: good movie,Good Movie
+Pirates of the Caribbean: At World's End,2007,Fantasy,Gore Verbinski,Johnny Depp,4.5,An epic swashbuckling adventure with a perfect blend of humor and action. Johnny Depp's portrayal of Captain Jack Sparrow is legendary.
+Spectre,2015,Thriller,Sam Mendes,Christoph Waltz,4.3,A thrilling addition to the James Bond series. Spectre delivers intense action sequences and a compelling storyline that keeps you on the edge of your seat.
+The Dark Knight Rises,2012,Thriller,Christopher Nolan,Tom Hardy,4.7,A fitting conclusion to Nolan's Batman trilogy. Tom Hardy's Bane is a formidable adversary, and the film's emotional depth is remarkable.
+Star Wars: Episode VII - The Force Awakens,2006,Documentary,Doug Walker,Doug Walker,4.6,A fantastic return to the Star Wars universe. The Force Awakens successfully introduces new characters while paying homage to the original trilogy.
+John Carter,2012,Sci-Fi,Andrew Stanton,Daryl Sabara,4.0,Underrated sci-fi adventure with stunning visuals and a unique Martian world. Daryl Sabara's performance adds a touch of humor to the epic story.
+Spider-Man 3,2007,Romance,Sam Raimi,J.K. Simmons,3.9,An action-packed superhero film with a darker tone. J.K. Simmons steals the show as J. Jonah Jameson with his hilarious and memorable scenes.
+Tangled,2010,Romance,Nathan Greno,Brad Garrett,4.2,A charming animated tale with beautiful animation and a heartwarming story. Brad Garrett's voice work as the character 'Hook Hand' is delightful.
+Avengers: Age of Ultron,2015,Sci-Fi,Joss Whedon,Chris Hemsworth,4.5,An exhilarating ensemble superhero film with a mix of humor and intense action. Chris Hemsworth's Thor continues to be a highlight.
+Harry Potter and the Half-Blood Prince,2009,Mystery,David Yates,Alan Rickman,4.4,A darker and more complex installment in the Harry Potter series. Alan Rickman's portrayal of Severus Snape is particularly compelling.
+Batman v Superman: Dawn of Justice,2016,Sci-Fi,Zack Snyder,Henry Cavill,3.8,A visually stunning superhero showdown with impressive performances. Henry Cavill's Superman adds depth to the character.
+Superman Returns,2006,Sci-Fi,Bryan Singer,Kevin Spacey,3.7,An homage to the original Superman films with Brandon Routh delivering a strong performance. Kevin Spacey's Lex Luthor is a charismatic antagonist.
+Quantum of Solace,2008,Adventure,Marc Forster,Giancarlo Giannini,4.1,A fast-paced James Bond film with exhilarating action sequences. Giancarlo Giannini adds depth to the character of Rene Mathis.
+Pirates of the Caribbean: Dead Man's Chest,2006,Fantasy,Gore Verbinski,Johnny Depp,4.3,Another entertaining Pirates adventure with Johnny Depp's Captain Jack Sparrow at the helm. The film's visual effects are spectacular.
+The Lone Ranger,2013,Western,Gore Verbinski,Johnny Depp,3.9,A stylish Western adventure with Johnny Depp's charismatic performance. The Lone Ranger offers a fresh take on the classic character.
+Man of Steel,2013,Sci-Fi,Zack Snyder,Henry Cavill,4.0,A modern and action-packed Superman origin story. Henry Cavill brings a new dimension to the iconic character.
+The Chronicles of Narnia: Prince Caspian,2008,Fantasy,Andrew Adamson,Peter Dinklage,4.1,An enchanting fantasy film with impressive visual effects. Peter Dinklage's portrayal of Trumpkin adds humor to the epic tale.
+The Avengers,2012,Sci-Fi,Joss Whedon,Chris Hemsworth,4.6,A groundbreaking superhero team-up with impressive action sequences. Chris Hemsworth's Thor continues to be a fan-favorite.
+Pirates of the Caribbean: On Stranger Tides,2011,Fantasy,Rob Marshall,Johnny Depp,4.2,A swashbuckling adventure with Johnny Depp's Captain Jack Sparrow. The film introduces new characters and keeps the Pirates charm alive.
+Men in Black 3,2012,Sci-Fi,Barry Sonnenfeld,Will Smith,4.0,An entertaining sci-fi comedy with great chemistry between Will Smith and Tommy Lee Jones. Josh Brolin's performance as young Agent K is a highlight.
+The Hobbit: The Battle of the Five Armies,2014,Fantasy,Peter Jackson,Aidan Turner,4.3,A thrilling conclusion to The Hobbit trilogy with epic battle sequences. Aidan Turner's portrayal of Kili adds emotional depth to the story.
+The Amazing Spider-Man,2012,Fantasy,Marc Webb,Emma Stone,4.1,A fresh take on the Spider-Man origin story with Andrew Garfield delivering a charismatic performance. Emma Stone's Gwen Stacy is a standout character.
+Robin Hood,2010,History,Ridley Scott,Mark Addy,3.8,A visually stunning reimagining of the classic tale. Mark Addy's Friar Tuck provides humor and heart to the adventurous story.
+The Hobbit: The Desolation of Smaug,2013,Fantasy,Peter Jackson,Aidan Turner,4.2,A visually stunning middle installment with impressive dragon sequences. Aidan Turner's Kili adds charm to the journey.
+The Golden Compass,2007,Fantasy,Chris Weitz,Christopher Lee,4.0,A captivating fantasy film with a rich world and compelling characters. Christopher Lee's presence adds gravitas to the narrative.
+King Kong,2005,Romance,Peter Jackson,Naomi Watts,4.1,A visually spectacular retelling of the classic story. Naomi Watts brings emotional depth to the character of Ann Darrow.
+Titanic,1997,Romance,James Cameron,Leonardo DiCaprio,4.7,A timeless romantic epic with standout performances from Leonardo DiCaprio and Kate Winslet. James Cameron's direction is masterful.
+Captain America: Civil War,2016,Sci-Fi,Anthony Russo,Robert Downey Jr.,4.6,An epic superhero showdown with emotional depth. Robert Downey Jr.'s Tony Stark faces off against Chris Evans' Captain America in a memorable conflict.,Good,Good Movie
+Battleship,2012,Thriller,Peter Berg,Liam Neeson,3.9,An action-packed alien invasion film with intense naval battles. Liam Neeson's Admiral Shane adds gravitas to the global conflict.
+Jurassic World,2015,Thriller,Colin Trevorrow,Bryce Dallas Howard,4.4,A thrilling return to the Jurassic Park franchise with impressive dinosaur visuals. Bryce Dallas Howard's Claire adds a strong and capable character to the mix.
+Skyfall,2012,Thriller,Sam Mendes,Albert Finney,4.2,A gripping James Bond film with stunning cinematography. Albert Finney's portrayal of Kincade adds depth to the character-driven narrative.
+Spider-Man 2,2004,Romance,Sam Raimi,J.K. Simmons,4.5,A standout superhero sequel with Tobey Maguire delivering a strong performance. J.K. Simmons' J. Jonah Jameson continues to be a scene-stealer.
+Iron Man 3,2013,Sci-Fi,Shane Black,Robert Downey Jr.,4.3,A high-stakes and character-driven installment in the Iron Man series. Robert Downey Jr.'s Tony Stark faces new challenges and adversaries.
+Alice in Wonderland,2010,Fantasy,Tim Burton,Johnny Depp,4.0,A visually stunning and whimsical take on Lewis Carroll's classic tale. Johnny Depp's Mad Hatter adds a quirky and memorable touch to the film.
+X-Men: The Last Stand,2006,Thriller,Brett Ratner,Hugh Jackman,3.8,An action-packed entry in the X-Men series with Hugh Jackman's Wolverine at the center. The film explores themes of identity and acceptance.
+Monsters University,2013,Fantasy,Dan Scanlon,Steve Buscemi,4.1,A charming prequel to Monsters, Inc. that explores the origins of Mike and Sulley's friendship. Steve Buscemi's Randall is a standout character.
+Transformers: Revenge of the Fallen,2009,Sci-Fi,Michael Bay,Glenn Morshower,4.0,A visually spectacular Transformers film with intense robot battles. Glenn Morshower's General Morshower adds authority to the human side of the conflict.
+Transformers: Age of Extinction,2014,Sci-Fi,Michael Bay,Bingbing Li,4.2,An explosive addition to the Transformers series with new characters and epic battles. Bingbing Li's Su Yueming brings an international perspective to the story.
+Oz the Great and Powerful,2013,Fantasy,Sam Raimi,Tim Holmes,4.0,A visually dazzling prequel to The Wizard of Oz with a charismatic performance from James Franco. Tim Holmes' Knuck adds humor and heart to the adventure.
+The Amazing Spider-Man 2,2014,Sci-Fi,Marc Webb,Emma Stone,4.1,A thrilling and emotional continuation of Spider-Man's story. Emma Stone's Gwen Stacy continues to be a compelling and tragic character.
+TRON: Legacy,2010,Sci-Fi,Joseph Kosinski,Jeff Bridges,4.3,A visually stunning sequel to TRON with impressive special effects. Jeff Bridges' return as Kevin Flynn adds a nostalgic touch to the high-tech world.
+Cars 2,2011,Sport,John Lasseter,Joe Mantegna,3.9,A fun and action-packed animated adventure with the lovable Cars characters. Joe Mantegna's Grem adds humor to the espionage storyline.
+Green Lantern,2011,Sci-Fi,Martin Campbell,Ryan Reynolds,3.8,A cosmic superhero film with impressive visuals. Ryan Reynolds' Hal Jordan brings charisma to the Green Lantern character.
+Toy Story 3,2010,Fantasy,Lee Unkrich,Tom Hanks,4.5,An emotionally powerful conclusion to the Toy Story trilogy. Tom Hanks' Woody and the gang face new challenges as Andy prepares to leave for college.
+Terminator Salvation,2009,Sci-Fi,McG,Christian Bale,4.0,A gritty and action-packed installment in the Terminator series. Christian Bale's John Connor adds intensity to the resistance against the machines.
+Furious 7,2015,Thriller,James Wan,Jason Statham,4.2,An adrenaline-fueled addition to the Fast & Furious franchise with intense action sequences. Jason Statham's Deckard Shaw is a formidable antagonist.
+World War Z,2013,Thriller,Marc Forster,Peter Capaldi,4.1,A gripping and intense zombie apocalypse film with global stakes. Peter Capaldi's W.H.O. Doctor adds a unique perspective to the worldwide crisis.
+X-Men: Days of Future Past,2014,Thriller,Bryan Singer,Jennifer Lawrence,4.4,An ambitious and time-traveling entry in the X-Men series. Jennifer Lawrence's Mystique plays a crucial role in the film's events.
+Star Trek Into Darkness,2013,Sci-Fi,J.J. Abrams,Benedict Cumberbatch,4.3,A thrilling and action-packed Star Trek film with Benedict Cumberbatch's Khan as a formidable adversary. The film explores themes of sacrifice and loyalty.
+Jack the Giant Slayer,2013,Fantasy,Bryan Singer,Eddie Marsan,3.9,A visually impressive retelling of the classic Jack and the Beanstalk tale. Eddie Marsan's Crawe adds humor to the epic adventure.
+The Great Gatsby,2013,Romance,Baz Luhrmann,Leonardo DiCaprio,4.2,A visually stunning adaptation of F. Scott Fitzgerald's classic novel. Leonardo DiCaprio's portrayal of Jay Gatsby is both charismatic and tragic.
+q,q,qq,q,q,3.0,q
+aa,aa,aa,aa,aa,4.0,Good
